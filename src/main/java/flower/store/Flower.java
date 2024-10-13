@@ -13,7 +13,6 @@ public class Flower {
 
     // Constructor for Flower
     public Flower(FlowerType flowerType, double sepalLength, FlowerColor color, double price) {
-        this.flowerType = flowerType;
         this.sepalLength = sepalLength;
         this.color = color;
         this.price = price;
